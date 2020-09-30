@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlämningsuppgift3", "Inlämningsuppgift3\Inlämningsuppgift3.csproj", "{6246A044-72D1-40CC-AE0B-7124EB62DD34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlämningsuppgift3", "Inlämningsuppgift3\Inlämningsuppgift3.csproj", "{6246A044-72D1-40CC-AE0B-7124EB62DD34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibraries", "SharedLibraries\SharedLibraries.csproj", "{7B216BC4-220E-471F-96CD-A1C551192113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibraries", "SharedLibraries\SharedLibraries.csproj", "{7B216BC4-220E-471F-96CD-A1C551192113}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{8980DB31-92B4-4290-B901-DFDC6906756D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7B216BC4-220E-471F-96CD-A1C551192113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B216BC4-220E-471F-96CD-A1C551192113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B216BC4-220E-471F-96CD-A1C551192113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8980DB31-92B4-4290-B901-DFDC6906756D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8980DB31-92B4-4290-B901-DFDC6906756D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8980DB31-92B4-4290-B901-DFDC6906756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8980DB31-92B4-4290-B901-DFDC6906756D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
